@@ -1,0 +1,2 @@
+name,id,password,department,role,shift,work_time,break_time,ot_time,income_per_month,total_money,late_time,login_time,logout_time,leave_days,ot_pay_per_hour,manager_id
+ja,1,a665a45920422f9d417e4867efdc4fb8a04a1f3fff1fa07e998e86f7f7a27ae3,7day,Staff,Morning,08:00,12:00,17:00,3500000,3500000,0,,,1,15000,1

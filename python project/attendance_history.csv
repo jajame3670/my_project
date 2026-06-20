@@ -1,0 +1,2 @@
+id,date,login,logout,late,worked_minutes,ot_minutes,ot_pay,deduction,break_minutes,break_over_minutes,early_leave,holiday,break_start
+1,2026-05-20,10:28,10:28,148,0,1048,261999,30000,0,0,392,no,
