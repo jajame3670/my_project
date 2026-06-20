@@ -1,0 +1,21 @@
+.box1:hover {
+    width: 100px;
+    height: 200px;
+    border-radius: 50%;
+}
+.h1:hover {
+    color: orange;
+    font-size: 50px;
+}
+.menu {
+    display: none;
+    background-color: gray;
+    list-style: none;
+}
+.menu ol {
+    display: none;
+}
+.menu li:hover ol {
+    list-style: none;
+    display: block;
+}
