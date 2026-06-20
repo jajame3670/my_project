@@ -1,0 +1,7 @@
+name = input("Your  name: ")
+age = int(input("Your age: "))
+weight = float(input("Your weight: "))
+print("=====================")
+print("Name: ", name)
+print("age: ", age)
+print("weight: %.2f kg" % weight)
